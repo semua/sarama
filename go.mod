@@ -1,4 +1,6 @@
-module github.com/Shopify/sarama
+module github.com/semua/sarama
+
+replace github.com/Shopify/sarama v1.22.0 => github.com/semua/sarama v1.22.0
 
 require (
 	github.com/DataDog/zstd v1.3.6-0.20190409195224-796139022798
@@ -16,3 +18,5 @@ require (
 	golang.org/x/crypto v0.0.0-20190404164418-38d8ce5564a5 // indirect
 	golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3
 )
+
+go 1.13

@@ -11,8 +11,8 @@ import (
 	gosync "sync"
 	"time"
 
-	"github.com/Shopify/sarama"
 	metrics "github.com/rcrowley/go-metrics"
+	"github.com/semua/sarama"
 )
 
 var (
