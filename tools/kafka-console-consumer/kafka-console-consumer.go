@@ -10,8 +10,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Shopify/sarama"
-	"github.com/Shopify/sarama/tools/tls"
+	"github.com/semua/sarama"
+	"github.com/semua/sarama/tools/tls"
 )
 
 var (

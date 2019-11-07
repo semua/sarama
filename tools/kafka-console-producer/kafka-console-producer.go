@@ -8,9 +8,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Shopify/sarama"
-	"github.com/Shopify/sarama/tools/tls"
 	"github.com/rcrowley/go-metrics"
+	"github.com/semua/sarama"
+	"github.com/semua/sarama/tools/tls"
 )
 
 var (

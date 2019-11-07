@@ -1,5 +1,5 @@
-module github.com/Shopify/sarama/examples/consumer
+module github.com/semua/sarama/examples/consumer
 
-replace github.com/Shopify/sarama => ../../
+replace github.com/semua/sarama => ../../
 
-require github.com/Shopify/sarama v1.22.0
+require github.com/semua/sarama v1.22.0

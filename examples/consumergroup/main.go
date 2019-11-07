@@ -9,7 +9,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/Shopify/sarama"
+	"github.com/semua/sarama"
 )
 
 // Sarma configuration options
